@@ -3,91 +3,91 @@
     "title": "ChatGPT",
     "icon": "ChatGPT_icon.webp",
     "url": "https://chatgpt.com",
-    "description": "",
+    "description": "OpenAI全能对话助手",
     "category": "人工智能"
   },
   {
     "title": "Claude",
     "icon": "Claude_icon.webp",
     "url": "https://claude.ai",
-    "description": "",
+    "description": "长文写作与逻辑推理",
     "category": "人工智能"
   },
   {
     "title": "Copilot",
     "icon": "Copilot_icon.webp",
     "url": "https://copilot.microsoft.com",
-    "description": "",
+    "description": "微软办公生产力助手",
     "category": "人工智能"
   },
   {
     "title": "DeepSeek",
     "icon": "DeepSeek_icon.webp",
     "url": "https://chat.deepseek.com",
-    "description": "",
+    "description": "开源强逻辑推理模型",
     "category": "人工智能"
   },
   {
     "title": "Grok",
     "icon": "Grok_icon.webp",
     "url": "https://grok.com",
-    "description": "",
+    "description": "xAI实时热点问答助手",
     "category": "人工智能"
   },
   {
     "title": "Gemini",
     "icon": "Gemini_icon.webp",
     "url": "https://gemini.google.com",
-    "description": "",
+    "description": "谷歌多模态智能助手",
     "category": "人工智能"
   },
   {
     "title": "Midjourney",
     "icon": "Midjourney_icon.webp",
     "url": "https://www.midjourney.com",
-    "description": "",
+    "description": "顶尖AI图像绘画生成",
     "category": "人工智能"
   },
   {
     "title": "Perplexity",
     "icon": "Perplexity_icon.webp",
     "url": "https://www.perplexity.ai",
-    "description": "",
+    "description": "对话式智能搜索引擎",
     "category": "人工智能"
   },
   {
     "title": "kimi",
     "icon": "kimi_icon.webp",
     "url": "https://www.kimi.com",
-    "description": "",
+    "description": "超长文本阅读与总结",
     "category": "人工智能"
   },
   {
     "title": "元宝",
     "icon": "元宝_icon.webp",
     "url": "https://yuanbao.tencent.com",
-    "description": "",
+    "description": "腾讯生态智能助手",
     "category": "人工智能"
   },
   {
     "title": "豆包",
     "icon": "豆包_icon.webp",
     "url": "https://www.doubao.com/chat",
-    "description": "",
+    "description": "字节多功能语音AI",
     "category": "人工智能"
   },
   {
     "title": "千问",
     "icon": "千问_icon.webp",
     "url": "https://www.qianwen.com",
-    "description": "",
+    "description": "阿里通义大语言模型",
     "category": "人工智能"
   },
   {
     "title": "秘塔Ai",
     "icon": "秘塔Ai_icon.webp",
     "url": "https://metaso.cn",
-    "description": "",
+    "description": "无广告学术深度搜索",
     "category": "人工智能"
   }
 ]

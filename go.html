@@ -13,7 +13,7 @@
     <link rel="icon" href="assets/picture/nav.webp" type="image/webp" />
     <script src="src/scripts/security.js" defer></script>
     <style>
-      /* ----- 全局重置 ----- */
+      /* --- 全局重置 --- */
       * {
         margin: 0;
         padding: 0;
@@ -23,7 +23,7 @@
         -webkit-tap-highlight-color: transparent;
       }
 
-      /* ----- CSS 变量（浅色/深色） ----- */
+      /* --- CSS 变量 --- */
       :root {
         --primary-bg: #e6e7ee;
         --secondary-bg: #ffffff;
@@ -47,7 +47,7 @@
         --text-secondary: #8b93c4;
       }
 
-      /* ----- 页面固定居中 ----- */
+      /* --- 页面固定居中 --- */
       html,
       body {
         height: 100%;
@@ -61,17 +61,17 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        padding: 28px;
+        padding: 26px;
         transition: background 0.3s;
       }
 
-      /* ----- 跳转卡片 ----- */
+      /* --- 跳转卡片 --- */
       .redirect-card {
         background: var(--secondary-bg);
         max-width: 480px;
         width: 100%;
         padding: 36px 28px 28px;
-        border-radius: 32px;
+        border-radius: 26px;
         box-shadow:
           16px 16px 40px var(--shadow-dark),
           -8px -8px 24px var(--shadow-light);
@@ -117,11 +117,11 @@
         margin-bottom: 22px;
       }
 
-      /* ----- 目标网址显示框 ----- */
+      /* --- 目标网址显示框 --- */
       .redirect-url-box {
         background: var(--primary-bg);
         padding: 12px 16px;
-        border-radius: 14px;
+        border-radius: 12px;
         box-shadow:
           inset 4px 4px 10px var(--shadow-dark),
           inset -3px -3px 8px var(--shadow-light);
@@ -136,7 +136,7 @@
         opacity: 0.7;
       }
 
-      /* ----- 倒计时圆环 ----- */
+      /* --- 倒计时圆环 --- */
       .countdown-wrap {
         display: flex;
         align-items: center;
@@ -195,16 +195,16 @@
         color: var(--text-secondary);
       }
 
-      /* ----- 继续按钮 ----- */
+      /* --- 继续按钮 --- */
       .btn-wrap {
         text-align: center;
       }
 
       .btn-go {
         display: inline-block;
-        padding: 8px 22px;
+        padding: 8px 18px;
         border: none;
-        border-radius: 12px;
+        border-radius: 10px;
         font-size: 1.2rem;
         font-weight: 700;
         cursor: pointer;
@@ -224,7 +224,7 @@
         transform: scale(0.96);
       }
 
-      /* ----- 移动端适配 ----- */
+      /* --- 移动端适配 --- */
       @media (max-width: 480px) {
         .redirect-card {
           padding: 32px 18px 24px;
@@ -275,7 +275,7 @@
         <span id="targetDisplay">加载中...</span>
       </div>
 
-      <!-- ===== 倒计时圆环 ===== -->
+      <!-- 倒计时圆环 -->
       <div class="countdown-wrap">
         <div class="countdown-circle">
           <svg viewBox="0 0 120 120">
@@ -316,9 +316,7 @@
 
     <script>
       (function () {
-        /* ==========================================
-           §1  获取并校验目标链接
-           ========================================== */
+        // ── 获取并校验目标链接 ──
         const params = new URLSearchParams(window.location.search);
         let targetUrl = params.get("url");
 
@@ -331,7 +329,6 @@
           targetUrl = decodeURIComponent(targetUrl);
         } catch (e) {}
 
-        // 安全校验：防止危险协议
         if (
           !targetUrl.startsWith("http://") &&
           !targetUrl.startsWith("https://")
@@ -346,9 +343,7 @@
           targetUrl = "https://" + targetUrl;
         }
 
-        /* ==========================================
-           §2  显示友好域名
-           ========================================== */
+        // ── 显示友好域名 ──
         try {
           const urlObj = new URL(targetUrl);
           let display = urlObj.hostname;
@@ -361,17 +356,13 @@
           document.getElementById("targetDisplay").textContent = targetUrl;
         }
 
-        /* ==========================================
-           §3  同步深色模式
-           ========================================== */
+        // ── 同步深色模式 ──
         const darkKey = "xingyuan-dark-mode";
         if (localStorage.getItem(darkKey) === "true") {
           document.body.classList.add("dark");
         }
 
-        /* ==========================================
-           §4  倒计时逻辑（带圆环进度）
-           ========================================== */
+        // ── 倒计时逻辑（带圆环进度） ──
         const TOTAL_SECONDS = 10;
         const CIRCUMFERENCE = 326.726;
 
@@ -400,15 +391,11 @@
           }, 1000);
         }
 
-        /* ==========================================
-           §5  安全跳转函数（防止卡死）
-           ========================================== */
+        // ── 安全跳转函数 ──
         function safeRedirect(url) {
           try {
-            // 优先使用 replace（替换历史记录）
             window.location.replace(url);
           } catch (e) {
-            // 降级方案：使用 href
             window.location.href = url;
           }
         }
@@ -421,9 +408,7 @@
           safeRedirect(targetUrl);
         }
 
-        /* ==========================================
-           §6  绑定事件
-           ========================================== */
+        // ── 绑定事件 ──
         document.getElementById("goBtn").addEventListener("click", goNow);
 
         document.addEventListener("keydown", function (e) {
@@ -433,9 +418,7 @@
           }
         });
 
-        /* ==========================================
-           §7  启动倒计时
-           ========================================== */
+        // ── 启动倒计时 ──
         progressCircle.style.strokeDashoffset = 0;
         countdownEl.textContent = TOTAL_SECONDS;
         startCountdown();

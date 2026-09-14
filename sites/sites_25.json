@@ -1,128 +1,93 @@
 [
   {
-    "title": "Fmhy",
-    "icon": "FMHY_icon.webp",
-    "url": "https://fmhy.net",
-    "description": "",
-    "category": "更多导航"
+    "title": "王牌竞速数据站",
+    "icon": "王牌竞速数据站_icon.webp",
+    "url": "https://wnqs.github.io/acerace-station/main.html",
+    "description": "王牌竞速数据与资料",
+    "category": "休闲娱乐"
   },
   {
-    "title": "行书指南",
-    "icon": "行书指南_icon.webp",
-    "url": "https://xszn.org/zh",
-    "description": "",
-    "category": "更多导航"
+    "title": "王牌竞速情报站",
+    "icon": "王牌竞速情报站_icon.webp",
+    "url": "https://reca.seimu.cn/ace-racer/home",
+    "description": "王牌竞速玩家情报资料",
+    "category": "休闲娱乐"
   },
   {
-    "title": "优设导航",
-    "icon": "优设导航_icon.webp",
-    "url": "https://hao.uisdc.com",
-    "description": "",
-    "category": "更多导航"
+    "title": "摸鱼小游戏",
+    "icon": "摸鱼小游戏_icon.webp",
+    "url": "https://moyu.aolifu.org",
+    "description": "休闲怀旧在线小游戏",
+    "category": "休闲娱乐"
   },
   {
-    "title": "创作者导航",
-    "icon": "创作者导航_icon.webp",
-    "url": "https://bbab.net",
-    "description": "",
-    "category": "更多导航"
+    "title": "乡土游戏馆",
+    "icon": "乡土游戏馆_icon.webp",
+    "url": "https://youxi.pomodiary.com",
+    "description": "民间乡土棋类游戏",
+    "category": "休闲娱乐"
   },
   {
-    "title": "奎章阁",
-    "icon": "奎章阁_icon.webp",
-    "url": "https://www.wenxianxue.cn",
-    "description": "",
-    "category": "更多导航"
+    "title": "小游戏合集",
+    "icon": "小游戏合集_icon.webp",
+    "url": "https://game.teckbest.com",
+    "description": "在线小游戏合集",
+    "category": "休闲娱乐"
   },
   {
-    "title": "秋木科技",
-    "icon": "秋木科技_icon.webp",
-    "url": "https://qiumu1998.github.io",
-    "description": "",
-    "category": "更多导航"
+    "title": "楚河漢界",
+    "icon": "楚河漢界_icon.webp",
+    "url": "https://chess.moyu.ge",
+    "description": "3D中国象棋对弈",
+    "category": "休闲娱乐"
   },
   {
-    "title": "AI 工具集",
-    "icon": "AI_工具集_icon.webp",
-    "url": "https://ai-bot.cn",
-    "description": "",
-    "category": "更多导航"
+    "title": "grubiks",
+    "icon": "grubiks_icon.webp",
+    "url": "https://www.grubiks.com",
+    "description": "多款魔方益智畅玩",
+    "category": "休闲娱乐"
   },
   {
-    "title": "格律诗的软件世界",
-    "icon": "格律诗的软件世界_icon.webp",
-    "url": "https://www.jamecling.com",
-    "description": "",
-    "category": "更多导航"
+    "title": "3D魔方",
+    "icon": "3D魔方_icon.webp",
+    "url": "https://game.ur1.fun/cube",
+    "description": "在线3D魔方趣玩",
+    "category": "休闲娱乐"
   },
   {
-    "title": "橘子的导航",
-    "icon": "橘子的导航_icon.webp",
-    "url": "https://orangecj.cn/navhub.html",
-    "description": "",
-    "category": "更多导航"
+    "title": "罗码术",
+    "icon": "罗码术_icon.webp",
+    "url": "https://www.luomashu.com",
+    "description": "认知测试与性格测评",
+    "category": "休闲娱乐"
   },
   {
-    "title": "纯净派",
-    "icon": "纯净派_icon.webp",
-    "url": "https://chunjing.app",
-    "description": "",
-    "category": "更多导航"
+    "title": "A Real Me",
+    "icon": "ARealMe_icon.webp",
+    "url": "https://www.arealme.com",
+    "description": "自我测试与趣味互动",
+    "category": "休闲娱乐"
   },
   {
-    "title": "那些免费的砖",
-    "icon": "那些免费的砖_icon.webp",
-    "url": "https://www.thosefree.com",
-    "description": "",
-    "category": "更多导航"
+    "title": "待一会",
+    "icon": "待一会_icon.webp",
+    "url": "https://daiyihui.com",
+    "description": "沉浸式放松解压空间",
+    "category": "休闲娱乐"
   },
   {
-    "title": "阅读指南",
-    "icon": "阅读指南_icon.webp",
-    "url": "https://readzn.com",
-    "description": "",
-    "category": "更多导航"
+    "title": "泡泡白噪音",
+    "icon": "泡泡白噪音_icon.webp",
+    "url": "https://www.ppbzy.com",
+    "description": "助眠冥想白噪音播放",
+    "category": "休闲娱乐"
   },
   {
-    "title": "我的收藏",
-    "icon": "我的收藏_icon.webp",
-    "url": "https://link.pixcat.cn",
-    "description": "",
-    "category": "更多导航"
-  },
-  {
-    "title": "硬核指南",
-    "icon": "硬核指南_icon.webp",
-    "url": "https://yinghezhinan.com",
-    "description": "",
-    "category": "更多导航"
-  },
-  {
-    "title": "HapNext",
-    "icon": "HapNext_icon.webp",
-    "url": "https://hapnext.cn",
-    "description": "",
-    "category": "更多导航"
-  },
-  {
-    "title": "官网下",
-    "icon": "官网下_icon.webp",
-    "url": "https://guanwangxia.com",
-    "description": "",
-    "category": "更多导航"
-  },
-  {
-    "title": "UU AI Hub",
-    "icon": "UU_AI_Hub_icon.webp",
-    "url": "https://www.uuaihub.com",
-    "description": "",
-    "category": "更多导航"
-  },
-  {
-    "title": "TGNAV",
-    "icon": "TGNAV_icon.webp",
-    "url": "https://www.tgnav.org",
-    "description": "",
-    "category": "更多导航"
+    "title": "ORBIT",
+    "icon": "ORBIT_icon.webp",
+    "url": "https://ryh842487118-bot.github.io/orbit/",
+    "description": "沉浸式3D宇宙探索",
+    "category": "休闲娱乐"
   }
 ]

@@ -1,100 +1,72 @@
 [
   {
-    "title": "Komiic",
-    "icon": "Komiic_icon.webp",
-    "url": "https://komiic.com",
-    "description": "",
-    "category": "漫步次元"
+    "title": "故宫博物院",
+    "icon": "故宫博物院_icon.webp",
+    "url": "https://www.dpm.org.cn",
+    "description": "故宫文物与历史文化",
+    "category": "人文阅读"
   },
   {
-    "title": "拷贝漫画",
-    "icon": "拷贝漫画_icon.webp",
-    "url": "https://www.2026copy.com/h5/index",
-    "description": "",
-    "category": "漫步次元"
+    "title": "四大名著",
+    "icon": "四大名著_icon.webp",
+    "url": "http://www.sdmz.cn",
+    "description": "四大名著在线阅读",
+    "category": "人文阅读"
   },
   {
-    "title": "风铃动漫",
-    "icon": "风铃动漫_icon.webp",
-    "url": "https://www.aafun.cc",
-    "description": "",
-    "category": "漫步次元"
+    "title": "读典籍",
+    "icon": "读典籍_icon.webp",
+    "url": "https://dudianji.com",
+    "description": "中华经典与古籍阅读",
+    "category": "人文阅读"
   },
   {
-    "title": "Animoe",
-    "icon": "Animoe_icon.webp",
-    "url": "https://animoe.org",
-    "description": "",
-    "category": "漫步次元"
+    "title": "书格",
+    "icon": "书格_icon.webp",
+    "url": "https://www.shuge.org",
+    "description": "古籍与艺术图书馆",
+    "category": "人文阅读"
   },
   {
-    "title": "Pixiv Viewer",
-    "icon": "Pixiv_Viewer_icon.webp",
-    "url": "https://pixiv.pictures",
-    "description": "",
-    "category": "漫步次元"
+    "title": "文籍典册",
+    "icon": "文籍典册_icon.webp",
+    "url": "https://wendian.dicomp.net",
+    "description": "古籍文献资料库",
+    "category": "人文阅读"
   },
   {
-    "title": "Mangabz",
-    "icon": "Mangabz_icon.webp",
-    "url": "https://www.mangabz.com",
-    "description": "",
-    "category": "漫步次元"
+    "title": "寻迹",
+    "icon": "寻迹_icon.webp",
+    "url": "https://xunjimap.online",
+    "description": "古墓与文保遗迹地图",
+    "category": "人文阅读"
   },
   {
-    "title": "G点漫画",
-    "icon": "G点漫画_icon.webp",
-    "url": "https://m.g-mh.org",
-    "description": "",
-    "category": "漫步次元"
+    "title": "5000言",
+    "icon": "5000言_icon.webp",
+    "url": "https://5000yan.com",
+    "description": "名言名句与经典语录",
+    "category": "人文阅读"
   },
   {
-    "title": "Yymanhua",
-    "icon": "Yymanhua_icon.webp",
-    "url": "https://www.yymanhua.com",
-    "description": "",
-    "category": "漫步次元"
+    "title": "诗泉",
+    "icon": "诗泉_icon.webp",
+    "url": "https://poetry.palemoky.com",
+    "description": "古诗词阅读与检索",
+    "category": "人文阅读"
   },
   {
-    "title": "轻书架",
-    "icon": "轻书架_icon.webp",
-    "url": "https://www.acgdmzy.com/home",
-    "description": "",
-    "category": "漫步次元"
+    "title": "汉语国学",
+    "icon": "汉语国学_icon.webp",
+    "url": "https://www.hanyuguoxue.com",
+    "description": "汉语字典与国学知识",
+    "category": "人文阅读"
   },
   {
-    "title": "稀饭动漫",
-    "icon": "稀饭动漫_icon.webp",
-    "url": "https://next.xifanacg.com",
-    "description": "",
-    "category": "漫步次元"
-  },
-  {
-    "title": "花火漫画",
-    "icon": "花火漫画_icon.webp",
-    "url": "https://web.hanabimanga.com/zh-CN",
-    "description": "",
-    "category": "漫步次元"
-  },
-  {
-    "title": "AGE动漫",
-    "icon": "AGE动漫_icon.webp",
-    "url": "https://m.agedm.io",
-    "description": "",
-    "category": "漫步次元"
-  },
-  {
-    "title": "花子动漫",
-    "icon": "花子动漫_icon.webp",
-    "url": "https://www.huazidm.com",
-    "description": "",
-    "category": "漫步次元"
-  },
-  {
-    "title": "Omofun",
-    "icon": "Omofun_icon.webp",
-    "url": "https://www.omofuna.com",
-    "description": "",
-    "category": "漫步次元"
+    "title": "老画报",
+    "icon": "老画报_icon.webp",
+    "url": "http://www.laohuabao.com",
+    "description": "近现代老画报资料",
+    "category": "人文阅读"
   }
 ]

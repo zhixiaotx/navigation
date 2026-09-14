@@ -1,0 +1,296 @@
+[
+  {
+    "title": "TemporaryMail",
+    "icon": "TemporaryMail_icon.webp",
+    "url": "https://temporarymail.com/zh",
+    "description": "免费一次性邮件地址",
+    "category": "实用扩展"
+  },
+  {
+    "title": "Temp Number",
+    "icon": "Temp_Number_icon.webp",
+    "url": "https://temp-number.org/zh",
+    "description": "在线接收短信验证",
+    "category": "实用扩展"
+  },
+  {
+    "title": "草料二维码",
+    "icon": "草料二维码_icon.webp",
+    "url": "https://cli.im",
+    "description": "在线生成二维码图片",
+    "category": "实用扩展"
+  },
+  {
+    "title": "聚合图床",
+    "icon": "聚合图床_icon.webp",
+    "url": "https://www.superbed.cn",
+    "description": "便捷高效图片托管服务",
+    "category": "实用扩展"
+  },
+  {
+    "title": "聚合视频",
+    "icon": "聚合视频_icon.webp",
+    "url": "https://v.superbed.cn",
+    "description": "专业的视频托管服务",
+    "category": "实用扩展"
+  },
+  {
+    "title": "聚合网盘",
+    "icon": "聚合网盘_icon.webp",
+    "url": "https://pan.superbed.cn",
+    "description": "文件管理与分享平台",
+    "category": "实用扩展"
+  },
+  {
+    "title": "视觉族",
+    "icon": "视觉族_icon.webp",
+    "url": "https://www.shijuezu.com",
+    "description": "屏幕坏点色彩检测",
+    "category": "实用扩展"
+  },
+  {
+    "title": "鼠标测试",
+    "icon": "鼠标测试_icon.webp",
+    "url": "https://www.mousetester.cn",
+    "description": "鼠标按键回报率测试",
+    "category": "实用扩展"
+  },
+  {
+    "title": "键盘测试",
+    "icon": "键盘测试_icon.webp",
+    "url": "https://www.keyboardtest.cn",
+    "description": "全键无冲与延迟检测",
+    "category": "实用扩展"
+  },
+  {
+    "title": "手柄测试",
+    "icon": "手柄测试_icon.webp",
+    "url": "https://www.gamepadtester.cn",
+    "description": "游戏手柄按键校准",
+    "category": "实用扩展"
+  },
+  {
+    "title": "GetPostalCodes",
+    "icon": "GetPostalCodes_icon.webp",
+    "url": "https://www.getpostalcodes.com",
+    "description": "全球各国邮编查询",
+    "category": "实用扩展"
+  },
+  {
+    "title": "TGwiki",
+    "icon": "TGwiki_icon.webp",
+    "url": "https://wiki.tgnav.org",
+    "description": "电报使用全方位指南",
+    "category": "实用扩展"
+  },
+  {
+    "title": "FMAIL",
+    "icon": "FMAIL_icon.webp",
+    "url": "https://femails.win",
+    "description": "24小时匿名临时邮箱",
+    "category": "实用扩展"
+  },
+  {
+    "title": "计算器3000",
+    "icon": "计算器3000_icon.webp",
+    "url": "https://jsq3000.com",
+    "description": "多功能在线计算器",
+    "category": "实用扩展"
+  },
+  {
+    "title": "Aura Share",
+    "icon": "Aura_Share_icon.webp",
+    "url": "https://share.dedyn.io/zh",
+    "description": "跨设备临时文件直传",
+    "category": "实用扩展"
+  },
+  {
+    "title": "SymbolDb",
+    "icon": "SymbolDb_icon.webp",
+    "url": "https://symboldb.org/zh",
+    "description": "花式字符与符号大全",
+    "category": "实用扩展"
+  },
+  {
+    "title": "ImgPeel",
+    "icon": "ImgPeel_icon.webp",
+    "url": "https://imgpeel.toolooz.com/zh-CN",
+    "description": "图片文字在线提取",
+    "category": "实用扩展"
+  },
+  {
+    "title": "DevFile",
+    "icon": "DevFile_icon.webp",
+    "url": "https://devfile.cn",
+    "description": "免费HTML网页托管",
+    "category": "实用扩展"
+  },
+  {
+    "title": "IPCheck",
+    "icon": "IPCheck_icon.webp",
+    "url": "https://ipcheck.ing",
+    "description": "IP地址与网络诊断",
+    "category": "实用扩展"
+  },
+  {
+    "title": "NetCoffee",
+    "icon": "NetCoffee_icon.webp",
+    "url": "https://ip.net.coffee",
+    "description": "网络环境综合分析",
+    "category": "实用扩展"
+  },
+  {
+    "title": "符号世界",
+    "icon": "符号世界_icon.webp",
+    "url": "https://symbols.wisdom-life.in/zh-CN",
+    "description": "特殊符号与表情大全",
+    "category": "实用扩展"
+  },
+  {
+    "title": "文件快传",
+    "icon": "文件快传_icon.webp",
+    "url": "https://transfer.52python.cn",
+    "description": "端到端文件极速传输",
+    "category": "实用扩展"
+  },
+  {
+    "title": "魔方简历",
+    "icon": "魔方简历_icon.webp",
+    "url": "https://magicv.art/zh",
+    "description": "免费开源简历编辑器",
+    "category": "实用扩展"
+  },
+  {
+    "title": "烁皓的工具箱",
+    "icon": "烁皓的工具箱_icon.webp",
+    "url": "https://eternityspring.github.io/article-tools",
+    "description": "封面制作与排版工具",
+    "category": "实用扩展"
+  },
+  {
+    "title": "简约文件床",
+    "icon": "简约文件床_icon.webp",
+    "url": "https://pic.sl.al",
+    "description": "极简直链文件托管",
+    "category": "实用扩展"
+  },
+  {
+    "title": "SignatureFont",
+    "icon": "SignatureFont_icon.webp",
+    "url": "https://signaturefont.net/zh",
+    "description": "艺术签名在线生成",
+    "category": "实用扩展"
+  },
+  {
+    "title": "Apple 苹果产品参数中心",
+    "icon": "Apple_苹果产品参数中心_icon.webp",
+    "url": "https://hubweb.cn",
+    "description": "苹果全系设备规格对比",
+    "category": "实用扩展"
+  },
+  {
+    "title": "教辅百宝箱",
+    "icon": "教辅百宝箱_icon.webp",
+    "url": "https://edu.zmpai.com",
+    "description": "小学练字纸在线生成",
+    "category": "实用扩展"
+  },
+  {
+    "title": "My Steps",
+    "icon": "My_Steps_icon.webp",
+    "url": "https://mysteps.top",
+    "description": "个人旅行足迹地图",
+    "category": "实用扩展"
+  },
+  {
+    "title": "114号码通",
+    "icon": "114号码通_icon.webp",
+    "url": "https://114phone.com",
+    "description": "号码归属地信息查询",
+    "category": "实用扩展"
+  },
+  {
+    "title": "老药新用全景研究",
+    "icon": "老药新用全景研究_icon.webp",
+    "url": "https://t3d7wcppdarmk.ok.kimi.link",
+    "description": "西药中药用途研究资料",
+    "category": "实用扩展"
+  },
+  {
+    "title": "小故事铺",
+    "icon": "小故事铺_icon.webp",
+    "url": "https://storynook.cn",
+    "description": "治愈系短篇故事阅读",
+    "category": "实用扩展"
+  },
+  {
+    "title": "Anitabi",
+    "icon": "Anitabi_icon.webp",
+    "url": "https://www.anitabi.cn/map",
+    "description": "二次元巡礼圣地地图",
+    "category": "实用扩展"
+  },
+  {
+    "title": "嵩词百科",
+    "icon": "嵩词百科_icon.webp",
+    "url": "https://4kjfycdzbn4fx.feishuapp.com/app/app_17bkt5mck7c/",
+    "description": "许嵩歌词意象资料库",
+    "category": "实用扩展"
+  },
+  {
+    "title": "SearchSharp",
+    "icon": "SearchSharp_icon.webp",
+    "url": "https://search-sharp.com",
+    "description": "全网流行缩写黑话叫法",
+    "category": "实用扩展"
+  },
+  {
+    "title": "Sweezy Cursors",
+    "icon": "Sweezy_Cursors_icon.webp",
+    "url": "https://sweezy-cursors.com",
+    "description": "个性光标自定义下载",
+    "category": "实用扩展"
+  },
+  {
+    "title": "酸柠檬新标签页",
+    "icon": "酸柠檬新标签页_icon.webp",
+    "url": "https://somelemon.com",
+    "description": "极简无广告浏览器首页",
+    "category": "实用扩展"
+  },
+  {
+    "title": "青柠起始页",
+    "icon": "青柠起始页_icon.webp",
+    "url": "https://www.limestart.cn",
+    "description": "高颜值导航起始页",
+    "category": "实用扩展"
+  },
+  {
+    "title": "Z2H字帖",
+    "icon": "Z2H字帖_icon.webp",
+    "url": "https://z2h.cn",
+    "description": "自定义字帖生成工具",
+    "category": "实用扩展"
+  },
+  {
+    "title": "文字图像提取器",
+    "icon": "文字图像提取器_icon.webp",
+    "url": "https://word.appinn.com",
+    "description": "文档图片无损提取",
+    "category": "实用扩展"
+  },
+  {
+    "title": "教师盒子",
+    "icon": "教师盒子_icon.webp",
+    "url": "https://teachbox.cn",
+    "description": "教师减负提效工具集合",
+    "category": "实用扩展"
+  },
+  {
+    "title": "逐风拼豆",
+    "icon": "逐风拼豆_icon.webp",
+    "url": "https://pd.zhufengxing.com",
+    "description": "图片秒变拼豆图纸",
+    "category": "实用扩展"
+  }
+]

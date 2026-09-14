@@ -1,0 +1,163 @@
+[
+  {
+    "title": "PDFCraft",
+    "icon": "PDFCraft_icon.webp",
+    "url": "http://pdfcraft.devtoolcafe.com/zh",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "QwikPDF",
+    "icon": "QwikPDF_icon.webp",
+    "url": "https://qwikpdf.com",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "iLovePDF",
+    "icon": "iLovePDF_icon.webp",
+    "url": "https://www.ilovepdf.com/zh-cn",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "PDF24",
+    "icon": "PDF24_icon.webp",
+    "url": "https://tools.pdf24.org/zh/all-tools",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "Stirling PDF",
+    "icon": "Stirling_PDF_icon.webp",
+    "url": "https://spdf.tinyrui.com",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "青档 PDF",
+    "icon": "青档_PDF_icon.webp",
+    "url": "https://qingpdf.cn",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "记灵",
+    "icon": "记灵_icon.webp",
+    "url": "https://remeins.com",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "小鹿 PDF",
+    "icon": "小鹿_PDF_icon.webp",
+    "url": "https://deerpdf.com",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "PDF 工具箱",
+    "icon": "PDF_工具箱_icon.webp",
+    "url": "https://pdfbookmarks.com/zh",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "AnyDocFlow",
+    "icon": "AnyDocFlow_icon.webp",
+    "url": "https://anydocflow.com/zh",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "PDF ImagesTool",
+    "icon": "PDF_ImagesTool_icon.webp",
+    "url": "https://pdf.imagestool.com/zh-CN",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "BentoPDF",
+    "icon": "BentoPDF_icon.webp",
+    "url": "https://www.bentopdf.com/zh",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "Sejda PDF",
+    "icon": "Sejda_PDF_icon.webp",
+    "url": "https://www.sejda.com/zh",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "FileUNZIP",
+    "icon": "FileUNZIP_icon.webp",
+    "url": "https://cn.fileunzip.com",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "iLoveZIP",
+    "icon": "iLoveZIP_icon.webp",
+    "url": "https://cn.ilovezip.com",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "文件转换器",
+    "icon": "文件转换器_icon.webp",
+    "url": "https://cn.onlineconvert.com",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "TinyWow",
+    "icon": "TinyWow_icon.webp",
+    "url": "https://tinywow.com",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "Smallpdf",
+    "icon": "Smallpdf_icon.webp",
+    "url": "https://smallpdf.com",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "PDFuck",
+    "icon": "PDFuck_icon.webp",
+    "url": "https://pdfuck.com/zh",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "ABCD Office",
+    "icon": "ABCD_Office_icon.webp",
+    "url": "https://www.abcdoffice.com/zh-cn",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "CSVtoAny",
+    "icon": "CSVtoAny_icon.webp",
+    "url": "https://csvtoany.com/zh",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "懒人办公",
+    "icon": "懒人办公_icon.webp",
+    "url": "https://www.lanren.work",
+    "description": "",
+    "category": "文档办公"
+  },
+  {
+    "title": "CleverPDF",
+    "icon": "CleverPDF_icon.webp",
+    "url": "https://www.cleverpdf.com/cn",
+    "description": "",
+    "category": "文档办公"
+  }
+]

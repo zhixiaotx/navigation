@@ -1,310 +1,128 @@
 [
   {
-    "title": "theSVG",
-    "icon": "theSVG_icon.webp",
-    "url": "https://thesvg.org",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Proicon",
-    "icon": "Proicon_icon.webp",
-    "url": "https://proicons.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Remix Icon",
-    "icon": "Remix_Icon_icon.webp",
-    "url": "https://remixicon.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
     "title": "Uiverse",
     "icon": "Uiverse_icon.webp",
     "url": "https://uiverse.io",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Google Fonts",
-    "icon": "Google_Fonts_icon.webp",
-    "url": "https://fonts.google.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Emoji Directory",
-    "icon": "Emoji_Directory_icon.webp",
-    "url": "https://emojidir.com/zh-CN",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "APPLORE",
-    "icon": "APPLORE_icon.webp",
-    "url": "https://app.uiboy.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "阿里巴巴矢量图标库",
-    "icon": "阿里巴巴矢量图标库_icon.webp",
-    "url": "https://www.iconfont.cn",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Undraw",
-    "icon": "Undraw_icon.webp",
-    "url": "https://undraw.co/illustrations",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "中国传统配色",
-    "icon": "中国传统配色_icon.webp",
-    "url": "https://nevertoday.github.io/zhongguo-traditional-colors",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "图标灵感",
-    "icon": "图标灵感_icon.webp",
-    "url": "https://iconinspo.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "YouIcons",
-    "icon": "YouIcons_icon.webp",
-    "url": "https://cn.youicons.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "All SVG Icons",
-    "icon": "All_SVG_Icons_icon.webp",
-    "url": "https://allsvgicons.com",
-    "description": "",
+    "description": "开源 UI 组件库",
     "category": "创意设计"
   },
   {
     "title": "React Bits",
     "icon": "React_Bits_icon.webp",
     "url": "https://reactbits.dev",
-    "description": "",
+    "description": "React 动效组件库",
     "category": "创意设计"
   },
   {
-    "title": "CocoMaterial",
-    "icon": "CocoMaterial_icon.webp",
-    "url": "https://cocomaterial.com",
-    "description": "",
+    "title": "M3E Canvas",
+    "icon": "M3E_Canvas_icon.webp",
+    "url": "https://lnkiai.github.io/m3e-canvas",
+    "description": "自定义构建MD3界面",
     "category": "创意设计"
   },
   {
     "title": "西瓜封面设计",
     "icon": "西瓜封面设计_icon.webp",
     "url": "https://cover.xgdh.cn",
-    "description": "",
+    "description": "专业封面设计工具",
     "category": "创意设计"
   },
   {
-    "title": "PerlerBeads",
-    "icon": "PerlerBeads_icon.webp",
-    "url": "https://perlerbeads.net/zh",
-    "description": "",
+    "title": "中国传统配色",
+    "icon": "中国传统配色_icon.webp",
+    "url": "https://nevertoday.github.io/zhongguo-traditional-colors",
+    "description": "742张中国传统色色卡",
     "category": "创意设计"
   },
   {
-    "title": "yesicon",
-    "icon": "yesicon_icon.webp",
-    "url": "https://yesicon.app",
-    "description": "",
+    "title": "Google Fonts",
+    "icon": "Google_Fonts_icon.webp",
+    "url": "https://fonts.google.com",
+    "description": "免费开源网页字体库",
     "category": "创意设计"
   },
   {
-    "title": "svgl",
-    "icon": "svgl_icon.webp",
-    "url": "https://svgl.app",
-    "description": "",
+    "title": "调色板",
+    "icon": "调色板_icon.webp",
+    "url": "https://cn.online-color.com",
+    "description": "在线调色板配色工具",
     "category": "创意设计"
   },
   {
-    "title": "FreeDownloadLogo",
-    "icon": "FreeDownloadLogo_icon.webp",
-    "url": "https://www.freedownloadlogo.com/cn",
-    "description": "",
+    "title": "Color Hunt",
+    "icon": "Color_Hunt_icon.webp",
+    "url": "https://colorhunt.co",
+    "description": "精选配色方案分享平台",
     "category": "创意设计"
   },
   {
-    "title": "SignatureFont",
-    "icon": "SignatureFont_icon.webp",
-    "url": "https://signaturefont.net/zh",
-    "description": "",
+    "title": "Undraw",
+    "icon": "Undraw_icon.webp",
+    "url": "https://undraw.co/illustrations",
+    "description": "开源矢量插画素材库",
     "category": "创意设计"
   },
   {
-    "title": "Flaticon",
-    "icon": "Flaticon_icon.webp",
-    "url": "https://www.flaticon.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Iconbuddy",
-    "icon": "Iconbuddy_icon.webp",
-    "url": "https://iconbuddy.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "3D图标库",
-    "icon": "3D图标库_icon.webp",
-    "url": "https://www.ai-suguan.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Dashboard Icons",
-    "icon": "Dashboard_Icons_icon.webp",
-    "url": "https://dashboardicons.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Worldvectorlogo",
-    "icon": "Worldvectorlogo_icon.webp",
-    "url": "https://worldvectorlogo.com/zh",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Lordicon",
-    "icon": "Lordicon_icon.webp",
-    "url": "https://lordicon.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "21st",
-    "icon": "21st_icon.webp",
-    "url": "https://21st.dev/community/components",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "七卡瓦",
-    "icon": "七卡瓦_icon.webp",
-    "url": "https://perlerbeads.zippland.com",
-    "description": "",
+    "title": "CocoMaterial",
+    "icon": "CocoMaterial_icon.webp",
+    "url": "https://cocomaterial.com",
+    "description": "开源手绘插图素材库",
     "category": "创意设计"
   },
   {
     "title": "Cover Page",
     "icon": "Cover_Page_icon.webp",
     "url": "https://www.coverpage.one",
-    "description": "",
+    "description": "封面图片创建工具",
     "category": "创意设计"
   },
   {
-    "title": "HTMLrev",
-    "icon": "HTMLrev_icon.webp",
-    "url": "https://htmlrev.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "比特拼豆",
-    "icon": "比特拼豆_icon.webp",
-    "url": "https://bitbead.pomodiary.com/zh",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Refero",
-    "icon": "Refero_icon.webp",
-    "url": "https://refero.design",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "中国大学矢量校徽大全",
-    "icon": "中国大学矢量校徽大全_icon.webp",
-    "url": "https://www.urongda.com",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "逐风拼豆",
-    "icon": "逐风拼豆_icon.webp",
-    "url": "https://pd.zhufengxing.com",
-    "description": "",
+    "title": "Coverly",
+    "icon": "Coverly_icon.webp",
+    "url": "https://coverly.79px.com",
+    "description": "文章封面图制作工具",
     "category": "创意设计"
   },
   {
     "title": "QM Icon",
     "icon": "QM_Icon_icon.webp",
     "url": "https://icon.qiaomu.ai",
-    "description": "",
+    "description": "跨平台图标设计工具站",
     "category": "创意设计"
   },
   {
     "title": "beUI",
     "icon": "beUI_icon.webp",
     "url": "https://beui.dev",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "Logoinspo",
-    "icon": "Logoinspo_icon.webp",
-    "url": "https://www.logoinspo.com/",
-    "description": "",
+    "description": "产品界面UI组件库",
     "category": "创意设计"
   },
   {
     "title": "Bible Strong",
     "icon": "Bible_Strong_icon.webp",
     "url": "https://bible-strong-avatar-lab.vercel.app",
-    "description": "",
+    "description": "头像生成与创作工具",
     "category": "创意设计"
   },
   {
     "title": "Bloub",
     "icon": "Bloub_icon.webp",
     "url": "https://bloub.vercel.app",
-    "description": "",
+    "description": "动画SVG头像制作",
     "category": "创意设计"
   },
   {
     "title": "OneWorks Avatar",
     "icon": "OneWorks_Avatar_icon.webp",
     "url": "https://oneworks.cloud/avatar",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "morphicons",
-    "icon": "morphicons_icon.webp",
-    "url": "https://www.morphicons.com",
-    "description": "",
+    "description": "开源3D头像编辑器",
     "category": "创意设计"
   },
   {
     "title": "UI UX Pro Max",
     "icon": "UI_UX_Pro_Max_icon.webp",
     "url": "https://www.uupm.cc",
-    "description": "",
-    "category": "创意设计"
-  },
-  {
-    "title": "SVG Logos",
-    "icon": "SVG_Logos_icon.webp",
-    "url": "https://svglogos.dev",
-    "description": "",
+    "description": "UI/UX设计资源平台",
     "category": "创意设计"
   }
 ]

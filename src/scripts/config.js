@@ -1,5 +1,4 @@
 // ════ 搜索引擎配置 ════
-// 在这里增删改引擎，index.html 无需任何修改
 // favicon 为 null 时使用 svgIcon 字段的 SVG 图标
 
 const SB_ENGINES = {
@@ -77,5 +76,4 @@ const SB_ENGINE_META = {
   },
 };
 
-// 默认引擎（必须是上面某个 key）
 const SB_DEFAULT_ENGINE = "google";

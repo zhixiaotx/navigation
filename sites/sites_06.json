@@ -1,0 +1,58 @@
+[
+  {
+    "title": "51CTO 博客",
+    "icon": "51CTO博客_icon.webp",
+    "url": "https://blog.51cto.com",
+    "description": "IT技术与运维交流",
+    "category": "社区论坛"
+  },
+  {
+    "title": "稀土掘金",
+    "icon": "稀土掘金_icon.webp",
+    "url": "https://juejin.cn",
+    "description": "开发者技术成长社区",
+    "category": "社区论坛"
+  },
+  {
+    "title": "Oschina",
+    "icon": "Oschina_icon.webp",
+    "url": "https://www.oschina.net",
+    "description": "开源软件与技术交流",
+    "category": "社区论坛"
+  },
+  {
+    "title": "CSDN",
+    "icon": "CSDN_icon.webp",
+    "url": "https://www.csdn.net",
+    "description": "专业IT技术博文社区",
+    "category": "社区论坛"
+  },
+  {
+    "title": "博客园",
+    "icon": "博客园_icon.webp",
+    "url": "https://www.cnblogs.com",
+    "description": "纯粹知识分享博客",
+    "category": "社区论坛"
+  },
+  {
+    "title": "MT 论坛",
+    "icon": "MT论坛_icon.webp",
+    "url": "https://bbs.binmt.cc",
+    "description": "安卓逆向与破解交流",
+    "category": "社区论坛"
+  },
+  {
+    "title": "V2EX",
+    "icon": "V2EX_icon.webp",
+    "url": "https://www.v2ex.com",
+    "description": "程序员与极客社区",
+    "category": "社区论坛"
+  },
+  {
+    "title": "SegmentFault",
+    "icon": "SegmentFault_icon.webp",
+    "url": "https://segmentfault.com",
+    "description": "思否开发者问答社区",
+    "category": "社区论坛"
+  }
+]

@@ -1,79 +1,163 @@
 [
   {
-    "title": "APKMirror",
-    "icon": "APKMirror_icon.webp",
-    "url": "https://www.apkmirror.com",
+    "title": "如意视频",
+    "icon": "如意视频_icon.webp",
+    "url": "https://rytv.tv",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
   },
   {
-    "title": "Appteka",
-    "icon": "Appteka_icon.webp",
-    "url": "https://appteka.store/apps",
+    "title": "无忧音乐网",
+    "icon": "无忧音乐网_icon.webp",
+    "url": "https://www.qeecc.com",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
   },
   {
-    "title": "F-Droid",
-    "icon": "F-Droid_icon.webp",
-    "url": "https://f-droid.org/zh_Hans/packages",
+    "title": "枫叶音乐盒",
+    "icon": "枫叶音乐盒_icon.webp",
+    "url": "https://mu-jie.cc/musicBox/#",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
   },
   {
-    "title": "Uptodown",
-    "icon": "Uptodown_icon.webp",
-    "url": "https://cn.uptodown.com",
+    "title": "瓜子影视",
+    "icon": "瓜子影视_icon.webp",
+    "url": "https://ng6.app",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
   },
   {
-    "title": "APKPure",
-    "icon": "APKPure_icon.webp",
-    "url": "https://m.apkpure.com/cn",
+    "title": "Novipnoad",
+    "icon": "Novipnoad_icon.webp",
+    "url": "https://findno.tv",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
   },
   {
-    "title": "Aptoide",
-    "icon": "Aptoide_icon.webp",
-    "url": "https://en.aptoide.com",
+    "title": "歌曲海",
+    "icon": "歌曲海_icon.webp",
+    "url": "https://www.gequhai.com",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
   },
   {
-    "title": "A2ZAPK",
-    "icon": "A2ZAPK_icon.webp",
-    "url": "https://a2zapk.co",
+    "title": "无损音乐下载",
+    "icon": "无损音乐下载_icon.webp",
+    "url": "https://flac.music.hi.cn",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
   },
   {
-    "title": "APKCombo",
-    "icon": "APKCombo_icon.webp",
-    "url": "https://apkcombo.com/zh",
+    "title": "歌词易",
+    "icon": "歌词易_icon.webp",
+    "url": "https://geciyi.com/zh-cn",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
   },
   {
-    "title": "OpenAPK",
-    "icon": "OpenAPK_icon.webp",
-    "url": "https://www.openapk.net/zh/",
+    "title": "PPnix",
+    "icon": "PPnix_icon.webp",
+    "url": "https://www.ppnix.com/cn",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
   },
   {
-    "title": "APKToy",
-    "icon": "APKToy_icon.webp",
-    "url": "https://m.apktoy.com",
+    "title": "一起刷",
+    "icon": "一起刷_icon.webp",
+    "url": "https://yqs11.app/pc",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
   },
   {
-    "title": "Sfile Mobi",
-    "icon": "Sfile_Mobi_icon.webp",
-    "url": "https://sfile.mobi",
+    "title": "网飞猫",
+    "icon": "网飞猫_icon.webp",
+    "url": "https://www.ncat22.com",
     "description": "",
-    "category": "应用分发"
+    "category": "影视音乐"
+  },
+  {
+    "title": "Hi歌曲音乐网",
+    "icon": "Hi歌曲音乐网_icon.webp",
+    "url": "https://higequ.com",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "歌曲宝",
+    "icon": "歌曲宝_icon.webp",
+    "url": "https://www.gequbao.com",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "COCO音乐下载站",
+    "icon": "COCO音乐下载站_icon.webp",
+    "url": "https://cocodownloader.markqq.com",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "Go Music DL",
+    "icon": "Go_Music_DL_icon.webp",
+    "url": "http://music.zkkp.nyc.mn",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "开开无损音乐",
+    "icon": "开开无损音乐_icon.webp",
+    "url": "https://www.kkws.cc",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "搜剧AI",
+    "icon": "搜剧AI_icon.webp",
+    "url": "https://souju.ai",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "看剧AI",
+    "icon": "看剧AI_icon.webp",
+    "url": "https://kanju.ai",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "ZIP0",
+    "icon": "ZIP0_icon.webp",
+    "url": "https://zip0.com",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "飞快 TV",
+    "icon": "飞快_TV_icon.webp",
+    "url": "https://feikuai.in",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "简单 TV",
+    "icon": "简单_TV_icon.webp",
+    "url": "https://jiandantv.cc",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "Moovie 影牛",
+    "icon": "Moovie_影牛_icon.webp",
+    "url": "https://moovie.c2v2.com",
+    "description": "",
+    "category": "影视音乐"
+  },
+  {
+    "title": "金牌影院",
+    "icon": "金牌影院_icon.webp",
+    "url": "https://m.vv3nwjk.com",
+    "description": "",
+    "category": "影视音乐"
   }
 ]

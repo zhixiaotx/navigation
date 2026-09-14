@@ -28,13 +28,6 @@
     "category": "媒体创作"
   },
   {
-    "title": "VERT",
-    "icon": "VERT_icon.webp",
-    "url": "https://vert.sh",
-    "description": "",
-    "category": "媒体创作"
-  },
-  {
     "title": "视频工具",
     "icon": "视频工具_icon.webp",
     "url": "https://tools.video/zh-CN",
@@ -42,9 +35,23 @@
     "category": "媒体创作"
   },
   {
+    "title": "小鹿 Video",
+    "icon": "小鹿_Video_icon.webp",
+    "url": "https://deervideo.net",
+    "description": "",
+    "category": "媒体创作"
+  },
+  {
     "title": "音频大师",
     "icon": "音频大师_icon.webp",
     "url": "https://yinpindashi.cn",
+    "description": "",
+    "category": "媒体创作"
+  },
+  {
+    "title": "VERT",
+    "icon": "VERT_icon.webp",
+    "url": "https://vert.sh",
     "description": "",
     "category": "媒体创作"
   },
@@ -112,13 +119,6 @@
     "category": "媒体创作"
   },
   {
-    "title": "帧妙",
-    "icon": "帧妙_icon.webp",
-    "url": "https://framewow.toolooz.com",
-    "description": "",
-    "category": "媒体创作"
-  },
-  {
     "title": "语音合成",
     "icon": "语音合成_icon.webp",
     "url": "https://tts.kutool.com",
@@ -140,13 +140,6 @@
     "category": "媒体创作"
   },
   {
-    "title": "Vidmore",
-    "icon": "Vidmore_icon.webp",
-    "url": "https://www.vidmore.com/zh",
-    "description": "",
-    "category": "媒体创作"
-  },
-  {
     "title": "NiceVoice",
     "icon": "NiceVoice_zh_icon.webp",
     "url": "https://nicevoice.org/zh",
@@ -161,22 +154,8 @@
     "category": "媒体创作"
   },
   {
-    "title": "TextReader",
-    "icon": "TextReader_icon.webp",
-    "url": "https://textreader.cc/zh-cn",
-    "description": "",
-    "category": "媒体创作"
-  },
-  {
-    "title": "哔哩哔哩音频解析",
-    "icon": "哔哩哔哩音频解析_icon.webp",
-    "url": "https://www.pixcat.cn/lab/biliaudio.php",
-    "description": "",
-    "category": "媒体创作"
-  },
-  {
-    "title": "TikTok 语音生成器",
-    "icon": "TikTok_语音生成器_icon.webp",
+    "title": "MoGoFun",
+    "icon": "MoGoFun_icon.webp",
     "url": "https://tiktokvoice.net/zh",
     "description": "",
     "category": "媒体创作"

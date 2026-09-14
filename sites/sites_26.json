@@ -1,0 +1,86 @@
+[
+  {
+    "title": "APKMirror",
+    "icon": "APKMirror_icon.webp",
+    "url": "https://www.apkmirror.com",
+    "description": "原版应用安装包下载站",
+    "category": "应用下载"
+  },
+  {
+    "title": "Appteka",
+    "icon": "Appteka_icon.webp",
+    "url": "https://appteka.store/apps",
+    "description": "俄区特色软件下载站",
+    "category": "应用下载"
+  },
+  {
+    "title": "F-Droid",
+    "icon": "F-Droid_icon.webp",
+    "url": "https://f-droid.org/zh_Hans/packages",
+    "description": "自由开源安卓应用商店",
+    "category": "应用下载"
+  },
+  {
+    "title": "Uptodown",
+    "icon": "Uptodown_icon.webp",
+    "url": "https://cn.uptodown.com",
+    "description": "多平台软件与游戏下载",
+    "category": "应用下载"
+  },
+  {
+    "title": "APKPure",
+    "icon": "APKPure_icon.webp",
+    "url": "https://m.apkpure.com/cn",
+    "description": "海外热门安卓应用市场",
+    "category": "应用下载"
+  },
+  {
+    "title": "Aptoide",
+    "icon": "Aptoide_icon.webp",
+    "url": "https://en.aptoide.com",
+    "description": "去中心化独立应用商店",
+    "category": "应用下载"
+  },
+  {
+    "title": "A2ZAPK",
+    "icon": "A2ZAPK_icon.webp",
+    "url": "https://a2zapk.co",
+    "description": "海量修改版应用与游戏",
+    "category": "应用下载"
+  },
+  {
+    "title": "APKCombo",
+    "icon": "APKCombo_icon.webp",
+    "url": "https://apkcombo.com/zh",
+    "description": "安卓APK与XAPK下载",
+    "category": "应用下载"
+  },
+  {
+    "title": "OpenAPK",
+    "icon": "OpenAPK_icon.webp",
+    "url": "https://www.openapk.net/zh/",
+    "description": "安卓开源应用APK下载",
+    "category": "应用下载"
+  },
+  {
+    "title": "APKToy",
+    "icon": "APKToy_icon.webp",
+    "url": "https://m.apktoy.com",
+    "description": "移动应用与游戏提取",
+    "category": "应用下载"
+  },
+  {
+    "title": "Sfile Mobi",
+    "icon": "Sfile_Mobi_icon.webp",
+    "url": "https://sfile.mobi",
+    "description": "网盘文件与应用分享",
+    "category": "应用下载"
+  },
+  {
+    "title": "Crx搜搜",
+    "icon": "Crx搜搜_icon.webp",
+    "url": "https://www.crxsoso.com",
+    "description": "浏览器扩展插件下载",
+    "category": "应用下载"
+  }
+]

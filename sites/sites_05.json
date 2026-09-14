@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Vercel",
+    "icon": "Vercel_icon.webp",
+    "url": "https://vercel.com",
+    "description": "前端项目自动部署",
+    "category": "网站运维"
+  },
+  {
+    "title": "Netlify",
+    "icon": "Netlify_icon.webp",
+    "url": "https://www.netlify.com",
+    "description": "静态网站云端构建",
+    "category": "网站运维"
+  },
+  {
+    "title": "Cloudflare Pages",
+    "icon": "Cloudflare_Pages_icon.webp",
+    "url": "https://pages.cloudflare.com",
+    "description": "全球边缘免费托管",
+    "category": "网站运维"
+  },
+  {
+    "title": "Render",
+    "icon": "Render_icon.webp",
+    "url": "https://render.com",
+    "description": "全栈应用快速部署",
+    "category": "网站运维"
+  },
+  {
+    "title": "Railway",
+    "icon": "Railway_icon.webp",
+    "url": "https://railway.app",
+    "description": "现代化云基础设施",
+    "category": "网站运维"
+  },
+  {
+    "title": "Fly.io",
+    "icon": "Fly_io_icon.webp",
+    "url": "https://fly.io",
+    "description": "边缘容器就近部署",
+    "category": "网站运维"
+  },
+  {
+    "title": "AWS Amplify",
+    "icon": "AWS_Amplify_icon.webp",
+    "url": "https://aws.amazon.com/amplify",
+    "description": "亚马逊全栈云托管",
+    "category": "网站运维"
+  },
+  {
+    "title": "Google Cloud Run",
+    "icon": "Google_Cloud_Run_icon.webp",
+    "url": "https://cloud.google.com/run",
+    "description": "谷歌无服务器容器平台",
+    "category": "网站运维"
+  },
+  {
+    "title": "Google Search Console",
+    "icon": "Google_Search_Console_icon.webp",
+    "url": "https://search.google.com/search-console",
+    "description": "谷歌收录与排名监测",
+    "category": "网站运维"
+  },
+  {
+    "title": "Google Analytics",
+    "icon": "Google_Analytics_icon.webp",
+    "url": "https://analytics.google.com",
+    "description": "网站流量统计分析",
+    "category": "网站运维"
+  },
+  {
+    "title": "PageSpeed Insights",
+    "icon": "PageSpeed_Insights_icon.webp",
+    "url": "https://pagespeed.web.dev",
+    "description": "网页性能速度测试",
+    "category": "网站运维"
+  },
+  {
+    "title": "Bing Webmaster Tools",
+    "icon": "Bing_Webmaster_Tools_icon.webp",
+    "url": "https://www.bing.com/webmasters",
+    "description": "必应搜索引擎管理",
+    "category": "网站运维"
+  },
+  {
+    "title": "百度搜索资源平台",
+    "icon": "百度搜索资源平台_icon.webp",
+    "url": "https://ziyuan.baidu.com",
+    "description": "百度收录站长工具",
+    "category": "网站运维"
+  },
+  {
+    "title": "Screaming Frog SEO Spider",
+    "icon": "Screaming_Frog_icon.webp",
+    "url": "https://www.screamingfrog.co.uk/seo-spider/",
+    "description": "网站SEO抓取分析",
+    "category": "网站运维"
+  },
+  {
+    "title": "宝塔面板",
+    "icon": "宝塔面板_icon.webp",
+    "url": "https://www.bt.cn",
+    "description": "国产运维管理面板",
+    "category": "网站运维"
+  },
+  {
+    "title": "1Panel",
+    "icon": "1Panel_icon.webp",
+    "url": "https://1panel.cn",
+    "description": "开源服务器管理面板",
+    "category": "网站运维"
+  },
+  {
+    "title": "哪吒监控",
+    "icon": "哪吒监控_icon.webp",
+    "url": "https://nezha.wiki",
+    "description": "轻量多服务器探针",
+    "category": "网站运维"
+  }
+]
