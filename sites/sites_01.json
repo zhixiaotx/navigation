@@ -1,7 +1,7 @@
 [
     {
     "title": "navi",
-    "icon": "./assets/siteicons/navi.png",
+    "icon": "../assets/siteicons/navi.png",
     "url": "https://zhixiaotx.github.io/navi/",
     "description": "Hugo版WebStack网址导航网站",
     "category": "全球热门"
