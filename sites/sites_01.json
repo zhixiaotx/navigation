@@ -1,4 +1,13 @@
 [
+    {
+    "title": "navi",
+    "icon": "Google_icon.webp",
+    "url": "https://zhixiaotx.github.io/navi/",
+    "description": "Hugo版WebStack网址导航网站",
+    "category": "全球热门"
+  },
+  
+  
   {
     "title": "Google",
     "icon": "Google_icon.webp",
